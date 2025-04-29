@@ -16,7 +16,7 @@ $ python main.py
 Runs algorithms on a set of adjustable random processes and prints results/graphs. Must be run in folder containing 
 graphing.py and algorithms.py
 ```bash
-$ cargo build
+$ python randomtest.py
 ```
 ## License
 This project is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/).
